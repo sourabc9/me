@@ -1,0 +1,40 @@
+h1{
+	font-family: 'Lato', sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 5em;
+}
+h3{
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+.box {
+	width: 20%;
+	height: 200px;
+	
+  }
+  
+ 
+  
+#sdlc{
+	font-family: 'Lato', sans-serif;
+	font-color: #000000;
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 3px 4px black;
+	
+}
+
+body{
+	background-image: url(Images/Background2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+html{
+	height: 100%;
+}
+hr{
+	width:400px;
+	border-top: 1px solid #f8f8f8;
+}
